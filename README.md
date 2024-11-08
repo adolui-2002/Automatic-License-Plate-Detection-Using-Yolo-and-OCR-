@@ -1,1 +1,1 @@
-# Automatic-License-Plate-Detection-Using-Yolo-and-OCR-
+# Automatic-License-Plate-Detection-Using-Yolo-and-OCR
